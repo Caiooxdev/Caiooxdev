@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou o Caio 👋
 
-<!--
-**Caiooxdev/Caiooxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou iniciando meus estudos em desenvolvimento web e participando da **Imersão Dev da Alura**, onde estou criando meus primeiros projetos com HTML, CSS e JavaScript.
 
-Here are some ideas to get you started:
+### 🚀 O que estou aprendendo
+- HTML e CSS  
+- Lógica de programação  
+- Git e GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos
+- **Site sobre hábitos** — inspirado no livro *O Poder do Hábito*.  
+  Em breve com mais melhorias.
+
+### 📫 Contato
+- LinkedIn: https://linkedin.com/in/caio-castro-ferreira  
+- Instagram: https://instagram.com/Caio_Castro.11
+
+---
+
+> Construindo meus primeiros códigos rumo à área de tecnologia.
