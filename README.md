@@ -12,7 +12,7 @@ Estou iniciando meus estudos em desenvolvimento web e participando da **Imersão
   Em breve com mais melhorias.
 
 ### 📫 Contato
-- LinkedIn: https://linkedin.com/in/caio-castro-ferreira  
+- LinkedIn: www.linkedin.com/in/caio-castro-ferreira-09b10a329
 - Instagram: https://instagram.com/Caio_Castro.11
 
 ---
